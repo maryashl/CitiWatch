@@ -1,0 +1,6 @@
+{
+  "name": "CitiWatch - Public Service Request Portal",
+  "description": "An eCitizen-style municipal public service request portal for reporting civic issues, real-time status tracking, and admin municipal triage with analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
