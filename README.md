@@ -4,7 +4,7 @@ CitiWatch is an eCitizen-style municipal public service incident reporting and r
 
 ---
 
-## 🏛️ System Features & Mapping to Requirements
+##  System Features & Mapping to Requirements
 
 | Feature Category | Implementation Details |
 | :--- | :--- |
@@ -16,7 +16,7 @@ CitiWatch is an eCitizen-style municipal public service incident reporting and r
 
 ---
 
-## 🌟 Bonus Features Included
+##  Bonus Features Included
 
 1. **Dedicated Login & Sign Up Pages**: Dedicated full views for eCitizen SSO Authentication and Citizen Registration with password strength indicators, OTP reset simulator, ward selection, and terms consent.
 2. **Public Reference Code Tracker (No Sign-In Required)**: Any citizen, auditor, or journalist with a tracking reference (e.g. `REQ-2026-1042`) can track real-time incident resolution without logging in.
@@ -29,7 +29,7 @@ CitiWatch is an eCitizen-style municipal public service incident reporting and r
 
 ---
 
-## 👥 Demo Accounts for Testing
+##  Demo Accounts for Testing
 
 | Role | Name | Email | Password | Action |
 | :--- | :--- | :--- | :--- | :--- |
@@ -39,7 +39,7 @@ CitiWatch is an eCitizen-style municipal public service incident reporting and r
 
 ---
 
-## 📂 Project Architecture
+##  Project Architecture
 
 ```
 /
@@ -80,7 +80,7 @@ CitiWatch is an eCitizen-style municipal public service incident reporting and r
 
 ---
 
-## 🚀 Setup & Local Execution
+##  Setup & Local Execution
 
 1. **Install dependencies:**
    ```bash
@@ -100,5 +100,5 @@ CitiWatch is an eCitizen-style municipal public service incident reporting and r
 
 ---
 
-## 🛡️ License
+##  License
 Apache-2.0 License. Developed for municipal civic engagement and public service transparency.
